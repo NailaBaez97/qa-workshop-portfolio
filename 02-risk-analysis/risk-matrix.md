@@ -2,7 +2,7 @@
 | ID | Riesgo | Impacto | Probabilidad | Nivel | Mitigación | 
 |----|--------|---------|--------------|-------|------------| 
 | R1 | El sistema permite continuar el proceso de compra de productos sin stock disponible. | 5 | 4 | 20 | Implementar validaciones de stock antes de permitir avanzar en el flujo de compra. | 
-| R2 | El sistema permite ingresar cantidades inválidas (negativas o excesivas) en el carrito. | 5 | 4 | 20 | Validar los valores permitidos en la cantidad de productos y limitar según stock disponible. | 
+| R2 | El sistema permite ingresar cantidades inválidas (negativas o excesivas) en el carrito. | 5 | 4 | 20 | Validar los valores permitidos en la cantidad de productos y limitar según stock disponible.| 
 | R3 | El sistema no permite a los usuarios autenticarse correctamente después del registro. | 5 | 3 | 15 | Validar el correcto funcionamiento del registro y login mediante pruebas funcionales y de integración. | 
 | R4 | La funcionalidad de búsqueda no devuelve resultados consistentes ni proporciona retroalimentación clara al usuario. | 4 | 4 | 16 | Mejorar la lógica de búsqueda y mostrar mensajes claros cuando no se encuentren resultados. | 
 | R5 | El sistema muestra mensajes de error técnicos (error 500) que no son comprensibles para el usuario. | 4 | 3 | 12 | Implementar manejo de errores con mensajes amigables y controlados para el usuario final. | 
