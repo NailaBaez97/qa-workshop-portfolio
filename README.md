@@ -1,4 +1,14 @@
 # -qa-workshop-portfolio
 
-**Este es el nivel 2 del Semillero de QA**
-*Naila Baez* 
+**Portafolio individual del workshop "Ingeniero de pruebas en el Desarrollo Moderno".**
+Autor: *Naila Baez* 
+
+Este repositorio contendra los entregables desarrollados durante el workshop.
+
+# Estado actual
+Repositorio conectado y listo para comenzar el trabajo del portafolio
+
+
+
+
+
