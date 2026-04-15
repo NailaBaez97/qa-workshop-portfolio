@@ -1,7 +1,8 @@
 # -qa-workshop-portfolio
 
 **Portafolio individual del workshop "Ingeniero de pruebas en el Desarrollo Moderno".**
-Autor: *Naila Baez* 
+
+*Autor: Naila Baez* 
 
 Este repositorio contendra los entregables desarrollados durante el workshop.
 
